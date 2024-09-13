@@ -1,4 +1,4 @@
-### Demos
+## Demos
 
 These are some demos that I have prepared for the talk.
 The demos are written in Crystal, and are meant to be run with the `crystal` command.
