@@ -1,3 +1,7 @@
+## Slides
+
+The slides for the talk are available [here](https://speakerdeck.com/rpaweb/euruko-2024-how-ruby-forged-crystal).
+
 ## Demos
 
 These are some demos that I have prepared for the talk.
